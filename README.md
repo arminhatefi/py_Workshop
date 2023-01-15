@@ -1,2 +1,2 @@
 # py_Workshop
-Talk: Introduction to Python 
+Introduction to Python Programming
